@@ -13,6 +13,7 @@ $ git clone git@github.com/TTPS-ruby/sinatra_app_template.git
 Remove the origin:
 
 ```bash
+$ cd cd sinatra_app_template/
 $ git remote rm origin
 ```
 
